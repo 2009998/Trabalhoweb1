@@ -1,7 +1,8 @@
 body {
-    color: rgb(70, 70, 70);
-    font-family: Arial;
-    background-image: url("./imagens/planodefundo2.jpg") 
+  background-image: url("./imagens/PlanoDeFundo2.jpg") 
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
 }
 
 h1 {
